@@ -1,4 +1,4 @@
-Este proyecto hace dos cosas, principalmente: homologa 
+Este proyecto hace dos cosas, principalmente: I) homologa los códigos de parroquias que los datos del Censo 2022 y CNE; y II) calcula la distribución de votos de las elecciones presidenciales 2025.
 
 | Cuaderno | Utilidad | Fuente de datos (link) |
 |----------|-----------|-----------|
